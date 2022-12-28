@@ -1,0 +1,21 @@
+
+.main{
+  display: flex;
+  
+  align-self: center;
+ 
+  width:60%;
+  border:1px solid black
+}
+
+textarea{
+  background-color: black;
+  color:white
+}
+.right{
+  width: 40%;
+  border: 1px solid black;
+}
+.left{
+  width:35%;
+}
