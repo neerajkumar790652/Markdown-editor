@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ 
+# About the project 
+ this project is based on the state concept. In this project i have used one other library to render the Markdown language the library
+used ReactMarkdown.In this project one side we write the markdown language with given syntax and other side its show the output
+we write the markdown in textarea and the output in render in the ReactMarkdown tag which is imported from the ReactMarkdown library
+to manage the textarea dynamically we use the state variable to set the variable to input variable wih the setter function its called when the textarea value change by chnage then the setter function is update the input variable and render on the ReactMarkDown tag 
+
+
