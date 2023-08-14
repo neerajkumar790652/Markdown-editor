@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ReactMarkdown from 'react-markdown'
+import ReactMarkdown from 'react-markdown';
 
 const Screen = () => {
     const [input,setInput] = useState('');
